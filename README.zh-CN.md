@@ -1,6 +1,6 @@
-# [Touchpad Switcher](https://github.com/europanite/touchpad_switcher "Touchpad Switcher")
+# [Touchpad Switcher](https://github.com/europanite/touchpad-switcher "Touchpad Switcher")
 
-[![pages-build-deployment](https://github.com/europanite/touchpad_switcher/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/touchpad_switcher/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/europanite/touchpad-switcher/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/europanite/touchpad-switcher/actions/workflows/pages/pages-build-deployment)
 
 <p align="right">
   <a href="./README.md">🇺🇸 English</a> |

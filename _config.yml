@@ -1,6 +1,6 @@
-title: "touchpad_switcher"
+title: "touchpad-switcher"
 description: "A shell script to toggle your touchpad on/off in GNOME."
-baseurl: "/touchpad_switcher"
+baseurl: "/touchpad-switcher"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
